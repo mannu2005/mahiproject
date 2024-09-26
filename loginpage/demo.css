@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    background-color: rgba(24, 17, 17, 0.888);
+}
+/* .one{
+    height: 800px;
+    width:100%;
+    background-color: rgba(47, 40, 40, 0.741);
+    display: flex;
+} */
+header{
+    display: flex;
+    height: 60px;
+    width: 100%;
+    
+    background-color: rgba(24, 17, 17, 0.888);
+}
+.navbarLeft{
+    padding-left: 100px;
+    padding-right: 200px;
+}
+.navbarCenter a{
+    margin-left: 40px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.navbarRight button{
+    margin-left: 200px;
+    padding: 15px;
+    margin-top: 10px;
+    border: none;
+    background-color: teal;
+    color: rgb(237, 232, 229);
+    font-size: 10px;
+    border-radius: 10px;
+}
+.contentbox{
+    display: flex;
+    background-color: rgba(24, 17, 17, 0.888);
+    align-items: center;
+    margin: 200px;
+    justify-content: space-evenly;
+}
+.content1{
+    height: 400px;
+    width: 50%;
+}
+
+.content1 h1{
+    font-size: 40px;
+    margin-left: 1px;
+    color: teal;
+    text-align: start;
+}
+.content1 h5{
+    padding-top: 10px;
+    
+}
+button{
+    padding: 10px;
+    background-color: teal;
+    border:none;
+    border-radius: 10px;
+    margin-top: 20px;
+    height: 40px;
+    width: 150px;
+
+}  

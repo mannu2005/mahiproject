@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+header{
+    display: inline;
+    display: flex;
+    height: 60px;
+    width: 100%;
+}
+.img{
+    background-image: url("teacup-7526022_640.webp");
+    background-size: cover;
+    height: 800px;
+}
+
+.logo{
+    
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 550px;
+    
+}
+.logo a{
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+
+}
+button{
+    margin-left: 30px;
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+    background-color: rgba(155, 165, 154, 0.641);
+}
+p{
+    margin-left: 120px;
+    font-size: 20px;
+    margin-top: -20px;
+    font-weight: 600;
+    text-decoration: none;
+    
+
+}
+.home{
+    height: 30px;
+    
+}
+.home,i{
+    padding-left: 100px;
+    padding-top: 15px;
+}
+.content{
+    padding-top: 225px;
+    display: flex;
+    justify-content: center;
+}
+    
+.content1{
+    margin-top: 25px;
+    text-overflow: clip;
+}
+.para{
+    margin-top: 23px;
+    margin-left: -1px;
+}
+.contentb1{
+    margin-top: 23px;
+    margin-left: -1px;
+    width: 80px;
+
+}
+.section img{
+    border-radius: 20px;
+}
+.content1,h1{
+    margin-top: -40px;
+    padding-top: 15px;
+}

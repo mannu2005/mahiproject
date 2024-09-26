@@ -1,0 +1,78 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    margin-top: -39px;
+    display: flex;
+}
+.box1{
+    height: 1300px;
+    width: 320px;
+    background-color: rgb(3, 53, 105);
+}
+.inbox1{
+    height: 1100px;
+    width: 250px;
+    margin:40px;
+    color: white;
+    font-size: 13px;
+    line-height: 30px;
+}
+    
+img{
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+h2{
+    margin-top: 30px;
+    letter-spacing: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+i{
+    padding-top: 20px;
+}
+span{
+    padding-left: 8px;
+}
+h4{
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+li{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.box2{
+    height: 1300px;
+    padding-top: 100px;
+}
+.inbox2{
+    height: 1000px; 
+    margin-left: 50px; 
+    margin-right: 80px;
+}
+.p{
+    text-align: end;
+    margin-top: -30px;
+    margin-bottom: 30px;
+} 
+.p1{
+    margin-left: 20px;
+    font-size: 17px;
+}
+p{
+    font-size: 20px;
+}
+.inbox5{
+    margin-left: 500px;
+    margin-top: -100px;
+}
+.h2{
+    margin-top: 140px;
+}

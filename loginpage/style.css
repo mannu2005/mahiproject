@@ -1,0 +1,35 @@
+.one{
+    height: 750px;
+    width:100%;
+    background-color: rgb(122, 240, 214);
+    display: flex;
+}
+.two{
+    text-align: center;
+    height: 450px;
+    width: 600px;
+    background-color: aliceblue;
+    margin-top: 150px;
+    margin-left: 420px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.button{
+    height: 50px;
+    width: 450px;
+    text-align: start;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.A{
+    text-align: center;
+    background-color: aqua;
+    font-size: 20px;
+    color: white;
+    width: 300px ;
+    border: none;
+}
+p{
+    font-size: 20px ;
+    font-style: bold;
+}

@@ -1,0 +1,128 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.contaier {
+    height: 800px;
+    background-color: rgba(137, 43, 226, 0.656);
+    display: flex;
+}
+
+.box1 {
+    height: 650px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 600px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+
+}
+
+.box2 {
+    height: 550px;
+    width: 500px;
+    background-color: white;
+    margin: 50px;
+}
+
+.box2 h1 {
+    color: blue;
+}
+
+.box3 {
+    height: 650px;
+    background-color: rgb(47, 18, 190);
+    width: 600px;
+    margin-top: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.box4 {
+    height: 550px;
+    width: 500px;
+    background-color: rgb(47, 18, 190);
+    margin: 50px;
+}
+
+.title {
+    width: 451px;
+    font-size: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-top: 40px;
+}
+
+.title1 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-top: 40px;
+    width: 200px;
+    font-size: 20px;
+}
+
+.title2 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-top: 40px;
+    margin-left: 50px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 200px;
+}
+
+.box4 h1 {
+    color: white;
+}
+.box4 p{
+    display: inline-block;
+}
+
+.contact {
+    width: 451px;
+    font-size: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-top: 40px;
+    background-color:rgb(47, 18, 190);
+}
+.contact1{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-top: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 200px;
+    background-color: rgb(47, 18, 190);
+}
+.contact2{
+   background-color:  rgb(47, 18, 190);
+   border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 200px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.box5 p{
+    font-size: 20px;
+    padding-top: 20px;
+    color: white;
+}
+.box5 a{
+    color: white;
+}
+button{
+    width: 150px;
+    height: 40px;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-left:20px ;
+}
